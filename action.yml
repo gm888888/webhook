@@ -3,10 +3,10 @@ description: 'This GitHub Action sends  fancy and more meaningful discord messag
 
 inputs:
   id:
-    description: The Discord Webhook id
+    description: 964547128594669598
     required: true
   token:
-    description: The Discord Webhook token
+    description: V-tvsR-tNIT00DeqqmQ6eAopmHmaV609mDIlj_twE2lN4Xfhrb0bc845zKQVsTjyV7ib
     required: true
 
 runs:
